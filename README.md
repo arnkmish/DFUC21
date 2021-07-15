@@ -6,7 +6,7 @@ The DFUC21 challenge is accessible at https://dfu-2021.grand-challenge.org/
 
 The MICCAI 2021 website can be accessed at https://www.miccai2021.org/en/
 
-In this work, a **Prediction Level Ensembling Approach** is proposed which combines the predicitve capabilities of 3 Deep CNN models (Pretrained EfficientNetB0, Pretrained DenseNet121 and DenseNetSmall with Regularization).
+In this work, a **Prediction Level Ensembling Approach** is proposed which combines the predicitve capabilities of 2 Deep CNN models (Pretrained EfficientNetB0 and Pretrained DenseNet121).
 
 The proposed approach has been evaluated on the held out validation set, the results for which are mentioned below:
 
